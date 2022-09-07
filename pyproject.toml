@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "fb3"
+version = "0.1.0"
+description = ""
+authors = ["keimoriyama <keischwiiz@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+torch = "^1.12.1"
+transformers = "^4.21.3"
+numpy = "^1.23.2"
+scipy = "^1.9.1"
+iterative-stratification = "^0.1.7"
+sentencepiece = "^0.1.97"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
