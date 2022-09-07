@@ -3,3 +3,4 @@ input/feedback-prize-english-language-learning/
 input/.DS_Store
 fb3/__pycache__
 fb3/.tokenizer
+fb3/*.pth
