@@ -1,2 +1,5 @@
 input/feedback-prize-english-language-learning/
+.DS_Store
+input/.DS_Store
 fb3/__pycache__
+fb3/.tokenizer
