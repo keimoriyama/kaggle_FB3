@@ -1,4 +1,5 @@
 from config import CFG
+import gc
 import torch
 from torch.utils.data import DataLoader
 import torch.nn as nn
@@ -167,12 +168,12 @@ def train_loop(folds, fold):
             )
             torch.save(
                 {"model": model.state_dict(), "predictions": predictions},
-                OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_best.pth",
+                CFG.output_dir + f"{CFG.model.replace('/', '-')}_fold{fold}_best.pth",
             )
 
     predictions = torch.load(
-        OUTPUT_DIR + f"{CFG.model.replace('/', '-')}_fold{fold}_best.pth",
-        map_location=torch.CFG.device("cpu"),
+        CFG.output_dir + f"{CFG.model.replace('/', '-')}_fold{fold}_best.pth",
+        map_location=torch.device("cpu"),
     )["predictions"]
     valid_folds[[f"pred_{c}" for c in CFG.target_cols]] = predictions
 
