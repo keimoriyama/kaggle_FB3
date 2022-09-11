@@ -14,6 +14,7 @@ from transformers import (
     get_cosine_schedule_with_warmup,
 )
 import time
+import mlflow
 
 # ====================================================
 # train loop
@@ -144,6 +145,11 @@ def train_loop(folds, fold):
 
         # scoring
         score, scores = get_score(valid_labels, predictions)
+        # logging
+        if CFG.mlflow:
+            mlflow.log_metric(key="train loss", value=avg_loss, step=epoch + 1)
+            mlflow.log_metric(key="val loss", value=avg_val_loss, step=epoch + 1)
+            mlflow.log_metric(key="score", value=score, step=epoch + 1)
 
         elapsed = time.time() - start_time
 
@@ -151,15 +157,6 @@ def train_loop(folds, fold):
             f"Epoch {epoch+1} - avg_train_loss: {avg_loss:.4f}  avg_val_loss: {avg_val_loss:.4f}  time: {elapsed:.0f}s"
         )
         CFG.logger.info(f"Epoch {epoch+1} - Score: {score:.4f}  Scores: {scores}")
-        if CFG.wandb:
-            wandb.log(
-                {
-                    f"[fold{fold}] epoch": epoch + 1,
-                    f"[fold{fold}] avg_train_loss": avg_loss,
-                    f"[fold{fold}] avg_val_loss": avg_val_loss,
-                    f"[fold{fold}] score": score,
-                }
-            )
 
         if best_score > score:
             best_score = score

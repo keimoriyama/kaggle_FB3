@@ -3,6 +3,7 @@ from config import CFG
 from iterstrat.ml_stratifiers import MultilabelStratifiedKFold
 import pandas as pd
 from train import train_loop
+import mlflow
 
 CFG.output_dir = "."
 CFG.logger = get_logger()
@@ -47,6 +48,12 @@ def main():
 
     if CFG.train:
         oof_df = pd.DataFrame()
+        if CFG.mlflow:
+            mlflow.set_tracking_uri("./log")
+            mlflow.set_experiment(CFG.experiment)
+            tracking_uri = mlflow.get_tracking_uri()
+            print("Current tracking uri: {}".format(tracking_uri))
+            mlflow.start_run()
         for fold in range(CFG.n_fold):
             if fold in CFG.trn_fold:
                 _oof_df = train_loop(train, fold)
@@ -57,6 +64,8 @@ def main():
         CFG.logger.info(f"========== CV ==========")
         get_result(oof_df)
         oof_df.to_pickle(CFG.output_dir + "oof_df.pkl")
+        if CFG.mlflow:
+            mlflow.end_run()
 
 
 if __name__ == "__main__":

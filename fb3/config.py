@@ -3,6 +3,8 @@ import torch
 
 
 class CFG:
+    mlflow = True
+    experiment = "test"
     wandb = False
     tokenizer = None
     device = device = torch.device("cuda" if torch.cuda.is_available() else "cpu")

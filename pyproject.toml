@@ -13,6 +13,7 @@ numpy = "^1.23.2"
 scipy = "^1.9.1"
 iterative-stratification = "^0.1.7"
 sentencepiece = "^0.1.97"
+mlflow = "^1.28.0"
 
 
 [build-system]
