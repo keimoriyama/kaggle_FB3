@@ -8,14 +8,27 @@ import mlflow
 CFG.output_dir = "."
 CFG.logger = get_logger()
 
+import os
+
+
+def check_kaggle_env():
+    env_set = set(os.environ.keys())
+
+    return "KAGGLE_URL_BASE" in env_set
+
 
 def main():
     seed_everything(seed=42)
     # ====================================================
     # Data Loading
     # ====================================================
-    train = pd.read_csv("../input/feedback-prize-english-language-learning/train.csv")
-    test = pd.read_csv("../input/feedback-prize-english-language-learning/test.csv")
+    base_path = ""
+    if check_kaggle_env():
+        base_path = "../../../input/feedback-prize-english-language-learning/"
+    else:
+        base_path = "../input/feedback-prize-english-language-learning/"
+    train = pd.read_csv(base_path + "train.csv")
+    test = pd.read_csv(base_path + "test.csv")
     submission = pd.read_csv(
         "../input/feedback-prize-english-language-learning/sample_submission.csv"
     )
