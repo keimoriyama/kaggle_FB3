@@ -10,7 +10,7 @@ class CFG:
     logger = get_logger()
     output_dir = ""
     competition = "FB3"
-    debug = True
+    debug = False
     apex = True
     print_freq = 20
     num_workers = 4
@@ -20,7 +20,7 @@ class CFG:
     batch_scheduler = True
     num_cycles = 0.5
     num_warmup_steps = 0
-    epochs = 2
+    epochs = 5
     encoder_lr = 2e-5
     decoder_lr = 2e-5
     min_lr = 1e-6
@@ -40,6 +40,6 @@ class CFG:
         "conventions",
     ]
     seed = 42
-    n_fold = 2
+    n_fold = 4
     trn_fold = [0, 1, 2, 3]
     train = True
