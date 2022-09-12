@@ -1,1 +1,1 @@
-iterstrat
+iterative-stratification
