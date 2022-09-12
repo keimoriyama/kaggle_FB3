@@ -49,7 +49,6 @@ def main():
     if CFG.train:
         oof_df = pd.DataFrame()
         if CFG.mlflow:
-            mlflow.set_tracking_uri("./log")
             mlflow.set_experiment(CFG.experiment)
             tracking_uri = mlflow.get_tracking_uri()
             print("Current tracking uri: {}".format(tracking_uri))

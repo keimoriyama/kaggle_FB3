@@ -226,13 +226,6 @@ def train_fn(fold, train_loader, model, criterion, optimizer, epoch, scheduler):
                     lr=scheduler.get_lr()[0],
                 )
             )
-        if CFG.wandb:
-            wandb.log(
-                {
-                    f"[fold{fold}] loss": losses.val,
-                    f"[fold{fold}] lr": scheduler.get_lr()[0],
-                }
-            )
     return losses.avg
 
 

@@ -5,13 +5,11 @@ import torch
 class CFG:
     mlflow = True
     experiment = "test"
-    wandb = False
     tokenizer = None
     device = device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     logger = get_logger()
     output_dir = ""
     competition = "FB3"
-    _wandb_kernel = "nakama"
     debug = True
     apex = True
     print_freq = 20
@@ -22,7 +20,7 @@ class CFG:
     batch_scheduler = True
     num_cycles = 0.5
     num_warmup_steps = 0
-    epochs = 4
+    epochs = 2
     encoder_lr = 2e-5
     decoder_lr = 2e-5
     min_lr = 1e-6
@@ -42,6 +40,6 @@ class CFG:
         "conventions",
     ]
     seed = 42
-    n_fold = 4
+    n_fold = 2
     trn_fold = [0, 1, 2, 3]
     train = True

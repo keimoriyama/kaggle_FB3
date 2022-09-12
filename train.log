@@ -1,0 +1,1165 @@
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+========== fold: 0 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+Epoch 1 - avg_train_loss: 0.3490  avg_val_loss: 0.1280  time: 897s
+Epoch 1 - avg_train_loss: 0.3490  avg_val_loss: 0.1280  time: 897s
+Epoch 1 - Score: 0.5083  Scores: [0.5327006071683076, 0.4659846766553279, 0.4900438173118117, 0.5365876565724713, 0.5408480465400575, 0.48344099304532834]
+Epoch 1 - Score: 0.5083  Scores: [0.5327006071683076, 0.4659846766553279, 0.4900438173118117, 0.5365876565724713, 0.5408480465400575, 0.48344099304532834]
+Epoch 1 - Save Best Score: 0.5083 Model
+Epoch 1 - Save Best Score: 0.5083 Model
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+Epoch 1 - avg_train_loss: 0.3490  avg_val_loss: 0.1280  time: 855s
+Epoch 1 - avg_train_loss: 0.3490  avg_val_loss: 0.1280  time: 855s
+Epoch 1 - Score: 0.5083  Scores: [0.5327006071683076, 0.4659846766553279, 0.4900438173118117, 0.5365876565724713, 0.5408480465400575, 0.48344099304532834]
+Epoch 1 - Score: 0.5083  Scores: [0.5327006071683076, 0.4659846766553279, 0.4900438173118117, 0.5365876565724713, 0.5408480465400575, 0.48344099304532834]
+Epoch 1 - Save Best Score: 0.5083 Model
+Epoch 1 - Save Best Score: 0.5083 Model
+Epoch 2 - avg_train_loss: 0.1166  avg_val_loss: 0.1164  time: 856s
+Epoch 2 - avg_train_loss: 0.1166  avg_val_loss: 0.1164  time: 856s
+Epoch 2 - Score: 0.4832  Scores: [0.5074994485494203, 0.45859373949959703, 0.4346764150843212, 0.47648941224548674, 0.5238647042288274, 0.4980919026036194]
+Epoch 2 - Score: 0.4832  Scores: [0.5074994485494203, 0.45859373949959703, 0.4346764150843212, 0.47648941224548674, 0.5238647042288274, 0.4980919026036194]
+Epoch 2 - Save Best Score: 0.4832 Model
+Epoch 2 - Save Best Score: 0.4832 Model
+Epoch 3 - avg_train_loss: 0.0981  avg_val_loss: 0.1098  time: 854s
+Epoch 3 - avg_train_loss: 0.0981  avg_val_loss: 0.1098  time: 854s
+Epoch 3 - Score: 0.4688  Scores: [0.5014814054993719, 0.437974546588387, 0.43891781140114106, 0.45916238021656974, 0.5144163648675003, 0.46088263232219945]
+Epoch 3 - Score: 0.4688  Scores: [0.5014814054993719, 0.437974546588387, 0.43891781140114106, 0.45916238021656974, 0.5144163648675003, 0.46088263232219945]
+Epoch 3 - Save Best Score: 0.4688 Model
+Epoch 3 - Save Best Score: 0.4688 Model
+Epoch 4 - avg_train_loss: 0.0872  avg_val_loss: 0.1081  time: 858s
+Epoch 4 - avg_train_loss: 0.0872  avg_val_loss: 0.1081  time: 858s
+Epoch 4 - Score: 0.4652  Scores: [0.4956398692689694, 0.4405368412457541, 0.43192927890564803, 0.4560339910416081, 0.5021107819182945, 0.46503902802436015]
+Epoch 4 - Score: 0.4652  Scores: [0.4956398692689694, 0.4405368412457541, 0.43192927890564803, 0.4560339910416081, 0.5021107819182945, 0.46503902802436015]
+Epoch 4 - Save Best Score: 0.4652 Model
+Epoch 4 - Save Best Score: 0.4652 Model
+========== fold: 0 result ==========
+========== fold: 0 result ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+Epoch 1 - avg_train_loss: 0.3490  avg_val_loss: 0.1280  time: 897s
+Epoch 1 - avg_train_loss: 0.3490  avg_val_loss: 0.1280  time: 897s
+Epoch 1 - Score: 0.5083  Scores: [0.5327006071683076, 0.4659846766553279, 0.4900438173118117, 0.5365876565724713, 0.5408480465400575, 0.48344099304532834]
+Epoch 1 - Score: 0.5083  Scores: [0.5327006071683076, 0.4659846766553279, 0.4900438173118117, 0.5365876565724713, 0.5408480465400575, 0.48344099304532834]
+Epoch 1 - Save Best Score: 0.5083 Model
+Epoch 1 - Save Best Score: 0.5083 Model
+Epoch 2 - avg_train_loss: 0.1166  avg_val_loss: 0.1164  time: 880s
+Epoch 2 - avg_train_loss: 0.1166  avg_val_loss: 0.1164  time: 880s
+Epoch 2 - Score: 0.4832  Scores: [0.5074994485494203, 0.45859373949959703, 0.4346764150843212, 0.47648941224548674, 0.5238647042288274, 0.4980919026036194]
+Epoch 2 - Score: 0.4832  Scores: [0.5074994485494203, 0.45859373949959703, 0.4346764150843212, 0.47648941224548674, 0.5238647042288274, 0.4980919026036194]
+Epoch 2 - Save Best Score: 0.4832 Model
+Epoch 2 - Save Best Score: 0.4832 Model
+Epoch 3 - avg_train_loss: 0.0981  avg_val_loss: 0.1098  time: 878s
+Epoch 3 - avg_train_loss: 0.0981  avg_val_loss: 0.1098  time: 878s
+Epoch 3 - Score: 0.4688  Scores: [0.5014814054993719, 0.437974546588387, 0.43891781140114106, 0.45916238021656974, 0.5144163648675003, 0.46088263232219945]
+Epoch 3 - Score: 0.4688  Scores: [0.5014814054993719, 0.437974546588387, 0.43891781140114106, 0.45916238021656974, 0.5144163648675003, 0.46088263232219945]
+Epoch 3 - Save Best Score: 0.4688 Model
+Epoch 3 - Save Best Score: 0.4688 Model
+Epoch 4 - avg_train_loss: 0.0872  avg_val_loss: 0.1081  time: 901s
+Epoch 4 - avg_train_loss: 0.0872  avg_val_loss: 0.1081  time: 901s
+Epoch 4 - Score: 0.4652  Scores: [0.4956398692689694, 0.4405368412457541, 0.43192927890564803, 0.4560339910416081, 0.5021107819182945, 0.46503902802436015]
+Epoch 4 - Score: 0.4652  Scores: [0.4956398692689694, 0.4405368412457541, 0.43192927890564803, 0.4560339910416081, 0.5021107819182945, 0.46503902802436015]
+Epoch 4 - Save Best Score: 0.4652 Model
+Epoch 4 - Save Best Score: 0.4652 Model
+========== fold: 0 result ==========
+========== fold: 0 result ==========
+Score: 0.4652  Scores: [0.4956398692689694, 0.4405368412457541, 0.43192927890564803, 0.4560339910416081, 0.5021107819182945, 0.46503902802436015]
+Score: 0.4652  Scores: [0.4956398692689694, 0.4405368412457541, 0.43192927890564803, 0.4560339910416081, 0.5021107819182945, 0.46503902802436015]
+========== fold: 1 training ==========
+========== fold: 1 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+Epoch 1 - avg_train_loss: 0.3442  avg_val_loss: 0.1246  time: 896s
+Epoch 1 - avg_train_loss: 0.3442  avg_val_loss: 0.1246  time: 896s
+Epoch 1 - Score: 0.5010  Scores: [0.5497701531643293, 0.4504297407335337, 0.45993429142389, 0.5148567449748386, 0.5318213117130529, 0.4993413890477988]
+Epoch 1 - Score: 0.5010  Scores: [0.5497701531643293, 0.4504297407335337, 0.45993429142389, 0.5148567449748386, 0.5318213117130529, 0.4993413890477988]
+Epoch 1 - Save Best Score: 0.5010 Model
+Epoch 1 - Save Best Score: 0.5010 Model
+Epoch 2 - avg_train_loss: 0.1134  avg_val_loss: 0.1170  time: 895s
+Epoch 2 - avg_train_loss: 0.1134  avg_val_loss: 0.1170  time: 895s
+Epoch 2 - Score: 0.4855  Scores: [0.5256194545407435, 0.45482135566421417, 0.4563470929917004, 0.48736104119874296, 0.4997873967274151, 0.4887887375034187]
+Epoch 2 - Score: 0.4855  Scores: [0.5256194545407435, 0.45482135566421417, 0.4563470929917004, 0.48736104119874296, 0.4997873967274151, 0.4887887375034187]
+Epoch 2 - Save Best Score: 0.4855 Model
+Epoch 2 - Save Best Score: 0.4855 Model
+Epoch 3 - avg_train_loss: 0.0913  avg_val_loss: 0.1106  time: 959s
+Epoch 3 - avg_train_loss: 0.0913  avg_val_loss: 0.1106  time: 959s
+Epoch 3 - Score: 0.4714  Scores: [0.5104726685211065, 0.42729492855498974, 0.4543113065897101, 0.47324564146696985, 0.4833627979854472, 0.4798976254430667]
+Epoch 3 - Score: 0.4714  Scores: [0.5104726685211065, 0.42729492855498974, 0.4543113065897101, 0.47324564146696985, 0.4833627979854472, 0.4798976254430667]
+Epoch 3 - Save Best Score: 0.4714 Model
+Epoch 3 - Save Best Score: 0.4714 Model
+Epoch 4 - avg_train_loss: 0.0802  avg_val_loss: 0.1102  time: 881s
+Epoch 4 - avg_train_loss: 0.0802  avg_val_loss: 0.1102  time: 881s
+Epoch 4 - Score: 0.4701  Scores: [0.5129918167859975, 0.4277541994787529, 0.4398409670047395, 0.4747754119015341, 0.4844750763881441, 0.48076500451140547]
+Epoch 4 - Score: 0.4701  Scores: [0.5129918167859975, 0.4277541994787529, 0.4398409670047395, 0.4747754119015341, 0.4844750763881441, 0.48076500451140547]
+Epoch 4 - Save Best Score: 0.4701 Model
+Epoch 4 - Save Best Score: 0.4701 Model
+========== fold: 1 result ==========
+========== fold: 1 result ==========
+Score: 0.4701  Scores: [0.5129918167859975, 0.4277541994787529, 0.4398409670047395, 0.4747754119015341, 0.4844750763881441, 0.48076500451140547]
+Score: 0.4701  Scores: [0.5129918167859975, 0.4277541994787529, 0.4398409670047395, 0.4747754119015341, 0.4844750763881441, 0.48076500451140547]
+========== fold: 2 training ==========
+========== fold: 2 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+Epoch 1 - avg_train_loss: 0.3591  avg_val_loss: 0.1611  time: 5185s
+Epoch 1 - avg_train_loss: 0.3591  avg_val_loss: 0.1611  time: 5185s
+Epoch 1 - Score: 0.5715  Scores: [0.6554625339693252, 0.5563718490795079, 0.4869098695516912, 0.5300328247859422, 0.6050539947062326, 0.5954107351085612]
+Epoch 1 - Score: 0.5715  Scores: [0.6554625339693252, 0.5563718490795079, 0.4869098695516912, 0.5300328247859422, 0.6050539947062326, 0.5954107351085612]
+Epoch 1 - Save Best Score: 0.5715 Model
+Epoch 1 - Save Best Score: 0.5715 Model
+Epoch 2 - avg_train_loss: 0.1225  avg_val_loss: 0.1270  time: 6285s
+Epoch 2 - avg_train_loss: 0.1225  avg_val_loss: 0.1270  time: 6285s
+Epoch 2 - Score: 0.5067  Scores: [0.5401365501064964, 0.46878851212227035, 0.48011150169968514, 0.5083296807213233, 0.5266827473209775, 0.5159282009611841]
+Epoch 2 - Score: 0.5067  Scores: [0.5401365501064964, 0.46878851212227035, 0.48011150169968514, 0.5083296807213233, 0.5266827473209775, 0.5159282009611841]
+Epoch 2 - Save Best Score: 0.5067 Model
+Epoch 2 - Save Best Score: 0.5067 Model
+Epoch 3 - avg_train_loss: 0.0979  avg_val_loss: 0.1220  time: 902s
+Epoch 3 - avg_train_loss: 0.0979  avg_val_loss: 0.1220  time: 902s
+Epoch 3 - Score: 0.4960  Scores: [0.5334386659233192, 0.47845191038643486, 0.46233742497361113, 0.4926688093820345, 0.5038155666935613, 0.5055431521580047]
+Epoch 3 - Score: 0.4960  Scores: [0.5334386659233192, 0.47845191038643486, 0.46233742497361113, 0.4926688093820345, 0.5038155666935613, 0.5055431521580047]
+Epoch 3 - Save Best Score: 0.4960 Model
+Epoch 3 - Save Best Score: 0.4960 Model
+Epoch 4 - avg_train_loss: 0.0888  avg_val_loss: 0.1225  time: 11603s
+Epoch 4 - avg_train_loss: 0.0888  avg_val_loss: 0.1225  time: 11603s
+Epoch 4 - Score: 0.4974  Scores: [0.5397550672323194, 0.4716618518862784, 0.4645189506914215, 0.494925643566389, 0.5045500255586454, 0.5088041800560472]
+Epoch 4 - Score: 0.4974  Scores: [0.5397550672323194, 0.4716618518862784, 0.4645189506914215, 0.494925643566389, 0.5045500255586454, 0.5088041800560472]
+========== fold: 2 result ==========
+========== fold: 2 result ==========
+Score: 0.4960  Scores: [0.5334386659233192, 0.47845191038643486, 0.46233742497361113, 0.4926688093820345, 0.5038155666935613, 0.5055431521580047]
+Score: 0.4960  Scores: [0.5334386659233192, 0.47845191038643486, 0.46233742497361113, 0.4926688093820345, 0.5038155666935613, 0.5055431521580047]
+========== fold: 3 training ==========
+========== fold: 3 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+Epoch 1 - avg_train_loss: 0.3322  avg_val_loss: 0.1292  time: 6093s
+Epoch 1 - avg_train_loss: 0.3322  avg_val_loss: 0.1292  time: 6093s
+Epoch 1 - Score: 0.5113  Scores: [0.5312282252281064, 0.46792599035212995, 0.5014452360006577, 0.519294680283477, 0.5384847902843175, 0.5095397830751591]
+Epoch 1 - Score: 0.5113  Scores: [0.5312282252281064, 0.46792599035212995, 0.5014452360006577, 0.519294680283477, 0.5384847902843175, 0.5095397830751591]
+Epoch 1 - Save Best Score: 0.5113 Model
+Epoch 1 - Save Best Score: 0.5113 Model
+Epoch 2 - avg_train_loss: 0.1222  avg_val_loss: 0.1124  time: 890s
+Epoch 2 - avg_train_loss: 0.1222  avg_val_loss: 0.1124  time: 890s
+Epoch 2 - Score: 0.4745  Scores: [0.4990980550819575, 0.4310786314239727, 0.4576222696215194, 0.46114199124180033, 0.5476073664194078, 0.45035016359644175]
+Epoch 2 - Score: 0.4745  Scores: [0.4990980550819575, 0.4310786314239727, 0.4576222696215194, 0.46114199124180033, 0.5476073664194078, 0.45035016359644175]
+Epoch 2 - Save Best Score: 0.4745 Model
+Epoch 2 - Save Best Score: 0.4745 Model
+Epoch 3 - avg_train_loss: 0.0996  avg_val_loss: 0.1097  time: 880s
+Epoch 3 - avg_train_loss: 0.0996  avg_val_loss: 0.1097  time: 880s
+Epoch 3 - Score: 0.4692  Scores: [0.4958790303133566, 0.4282482340826145, 0.45271766049088885, 0.4691741908652414, 0.5263314701045816, 0.4431444184675511]
+Epoch 3 - Score: 0.4692  Scores: [0.4958790303133566, 0.4282482340826145, 0.45271766049088885, 0.4691741908652414, 0.5263314701045816, 0.4431444184675511]
+Epoch 3 - Save Best Score: 0.4692 Model
+Epoch 3 - Save Best Score: 0.4692 Model
+Epoch 4 - avg_train_loss: 0.0887  avg_val_loss: 0.1075  time: 885s
+Epoch 4 - avg_train_loss: 0.0887  avg_val_loss: 0.1075  time: 885s
+Epoch 4 - Score: 0.4645  Scores: [0.4949179391329711, 0.4313001251773855, 0.4514761379972962, 0.46390137998279624, 0.5088027031924117, 0.43689054934282207]
+Epoch 4 - Score: 0.4645  Scores: [0.4949179391329711, 0.4313001251773855, 0.4514761379972962, 0.46390137998279624, 0.5088027031924117, 0.43689054934282207]
+Epoch 4 - Save Best Score: 0.4645 Model
+Epoch 4 - Save Best Score: 0.4645 Model
+========== fold: 3 result ==========
+========== fold: 3 result ==========
+Score: 0.4645  Scores: [0.4949179391329711, 0.4313001251773855, 0.4514761379972962, 0.46390137998279624, 0.5088027031924117, 0.43689054934282207]
+Score: 0.4645  Scores: [0.4949179391329711, 0.4313001251773855, 0.4514761379972962, 0.46390137998279624, 0.5088027031924117, 0.43689054934282207]
+========== CV ==========
+========== CV ==========
+Score: 0.4738  Scores: [0.5089696311813242, 0.4443697537468556, 0.44620360875868764, 0.4715784681116697, 0.4998710488614574, 0.4720421858917339]
+Score: 0.4738  Scores: [0.5089696311813242, 0.4443697537468556, 0.44620360875868764, 0.4715784681116697, 0.4998710488614574, 0.4720421858917339]
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+DebertaV2Config {
+  "_name_or_path": "microsoft/deberta-v3-base",
+  "attention_dropout": 0.0,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "hidden_dropout": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-07,
+  "max_position_embeddings": 512,
+  "max_relative_positions": -1,
+  "model_type": "deberta-v2",
+  "norm_rel_ebd": "layer_norm",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": true,
+  "pad_token_id": 0,
+  "pooler_dropout": 0,
+  "pooler_hidden_act": "gelu",
+  "pooler_hidden_size": 768,
+  "pos_att_type": [
+    "p2c",
+    "c2p"
+  ],
+  "position_biased_input": false,
+  "position_buckets": 256,
+  "relative_attention": true,
+  "share_att_key": true,
+  "transformers_version": "4.21.3",
+  "type_vocab_size": 0,
+  "vocab_size": 128100
+}
+
+Epoch 1 - avg_train_loss: 0.4028  avg_val_loss: 0.1355  time: 735s
+Epoch 1 - avg_train_loss: 0.4028  avg_val_loss: 0.1355  time: 735s
+Epoch 1 - Score: 0.5238  Scores: [0.5598022178242331, 0.4844527007113702, 0.49776866701069794, 0.5294402841561593, 0.5553795225190085, 0.5161706914596468]
+Epoch 1 - Score: 0.5238  Scores: [0.5598022178242331, 0.4844527007113702, 0.49776866701069794, 0.5294402841561593, 0.5553795225190085, 0.5161706914596468]
+Epoch 1 - Save Best Score: 0.5238 Model
+Epoch 1 - Save Best Score: 0.5238 Model
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
