@@ -2,7 +2,7 @@ input/feedback-prize-english-language-learning/
 __pycache__
 .DS_Store
 input/.DS_Store
-fb3/__pycache__
-fb3/.tokenizer
-fb3/*.pth
-fb3/*.log
+code/__pycache__
+code/.tokenizer
+code/*.pth
+code/*.log
