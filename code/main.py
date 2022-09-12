@@ -29,9 +29,7 @@ def main():
         base_path = "../input/feedback-prize-english-language-learning/"
     train = pd.read_csv(base_path + "train.csv")
     test = pd.read_csv(base_path + "test.csv")
-    submission = pd.read_csv(
-        "../input/feedback-prize-english-language-learning/sample_submission.csv"
-    )
+    submission = pd.read_csv(base_path + "sample_submission.csv")
 
     print(f"train.shape: {train.shape}")
     print(f"test.shape: {test.shape}")
